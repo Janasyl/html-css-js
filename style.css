@@ -14,5 +14,8 @@ body {
 
 }
 .header {
+	background: url(./images/cover.png);
 	background-size: cover;
+	height: 100%;
+	
 }
