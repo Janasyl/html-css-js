@@ -29,5 +29,6 @@ a {
 	display: flex;
 	justify-content: space-between;
 	align-items: baseline;
-	
+	padding-top: 34px;
+
 }
