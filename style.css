@@ -35,15 +35,20 @@ a {
 
 /* nav */
 .nav {
-	display: flex;
-	justify-content: space-between;
+
 	align-items: baseline;
-	padding-top: 34px;
+
 
 }
 .nav__link {
+	margin: 15px;
 	font-weight: 600;
 	font-size: 14px;
-	
+	color: #737373;
 
+}
+.header__inner {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
 }
