@@ -53,6 +53,12 @@ a {
 		align-items: center;
 }
 .section {
+	display: flex;
+	justify-content: space-between;
+
 	padding-top: 186.5px;
 
+}
+.section__title {
+	color: #252B42;
 }
