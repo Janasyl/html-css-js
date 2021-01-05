@@ -61,7 +61,12 @@ a {
 }
 .section__title {
 	color: #252B42;
-	font-size: 58px;
+	font-size: 58.5px;
 	max-width: 693px;
 	font-weight: 800;
+	
+}
+.form {
+	background: #fff;
+	
 }
