@@ -76,10 +76,15 @@ a {
     border-radius: 10px;
 }
 .form__title {
+    
+
 }
 .form__div {
+ 
 }
 .form {
+    width: 348px;
+    height: 369px;
 }
 .form__label {
 }
