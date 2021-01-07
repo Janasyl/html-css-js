@@ -85,7 +85,7 @@ a {
 
 }
 .form__div {
- 
+ width: 100%;
 }
 .form {
     width: 348px;
