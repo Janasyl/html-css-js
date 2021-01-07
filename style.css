@@ -76,6 +76,8 @@ a {
     border-radius: 10px;
 }
 .form__title {
+    font-style: normal;
+    font-weight: bold;
     
 
 }
