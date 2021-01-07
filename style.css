@@ -92,8 +92,14 @@ a {
     height: 369px;
 }
 .form__label {
+    width: 100%;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 24px;
+    color: #252b42;
 }
 .form__input {
+    
 }
 .input__div {
 }
