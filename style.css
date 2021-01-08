@@ -157,3 +157,17 @@ a {
     padding-left: 21px;
     padding-right: 0;
 }
+.book {
+	background-color: #ffa62b;
+	border-radius: 5px;
+	width: 348px;
+	height: 58px;
+	border: none;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 28px;
+	color: #fff;
+	margin-top: 40px;
+	outline: none;
+}
