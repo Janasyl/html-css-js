@@ -79,6 +79,21 @@ a {
 	color: #737373;
 
 }
+.btn__section:hover {
+	background: #00a0c1;
+	color: #fff;
+}
+.btn__section {
+	padding: 10px 36px;
+	border: 1px solid #00A0C1;
+	border-radius: 37px;
+	
+	color: #00a0c1;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 28px;
+}
 .header__form {
     width: 428px;
     height: 619px;
@@ -191,4 +206,13 @@ a {
     font-size: 14px;
     line-height: 28px;
     color: #737373;
+}
+
+.section_2 {
+	height: 100%;
+	background-color: #fff;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	
 }
