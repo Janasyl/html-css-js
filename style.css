@@ -226,6 +226,14 @@ a {
 
 }
 .section-2-title {
+	font-style: normal;
+	font-weight: 700;
+	font-size: 40px;
+	line-height: 57px;
+	color: #252b42;
+	margin-top: 0;
+	margin-bottom: 10px;
+	
 }
 .section-2-suptitle {
 }
