@@ -59,12 +59,25 @@ a {
 	padding-top: 90px;
 
 }
+.section__text {
+	max-width: 600px;
+}
 .section__title {
 	color: #252B42;
 	font-size: 58.5px;
 	max-width: 693px;
 	font-weight: 800;
 	
+}
+.section__suptitle {
+	font-family: 'Monserrat', sans-serif;
+	font-style: normal;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 30px;
+	max-width: 479px;
+	color: #737373;
+
 }
 .header__form {
     width: 428px;
