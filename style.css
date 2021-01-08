@@ -235,4 +235,13 @@ a {
     margin-bottom: 10px;
 }
 .section2__suptitle {
+	max-width: 470px;
+    margin: 0 auto;
+    font-family:'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #737373;
+    text-align: center;
 }
