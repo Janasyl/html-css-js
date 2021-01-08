@@ -233,9 +233,18 @@ a {
 	color: #252b42;
 	margin-top: 0;
 	margin-bottom: 10px;
-	
+
 }
 .section-2-suptitle {
+	max-width: 470px;
+    margin: 0 auto;
+    font-family:'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #737373;
+    text-align: center;
 }
 .section-2-card {
 	width: 328px;
