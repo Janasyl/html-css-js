@@ -171,3 +171,11 @@ a {
 	margin-top: 40px;
 	outline: none;
 }
+.opt {
+	font-family:'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 28px;
+    color: #737373;
+}
