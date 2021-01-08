@@ -255,8 +255,31 @@ a {
 .card-section-2 {
 }
 .card-icon {
+	display: flex;
+    justify-content: baseline;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 44px;
 }
 .section-2-h5 {
+	font-family:'Montserrat', sans-serif;
+    display: flex;
+    align-items: center;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #252b42;
+    margin-left: 15px;
 }
 .card-list {
+	border: 1px solid #a9d6ff;
+    background-color: #fff;
+    border-radius: 11px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 44px;
+}
+.card-list li {
+	
 }
