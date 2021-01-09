@@ -319,6 +319,14 @@ a {
 	width: 100%;
 }
 
+.section-3{
+    background-color: #392c86;
+    height: 100%;
+    display: flex;
+	align-items: center;
+	
+    
+}
 
 .section-3-text {
 	display: flex;
