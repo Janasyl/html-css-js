@@ -362,3 +362,8 @@ a {
     padding-bottom: 80px;
     
 }
+.office {
+	flex: 1 0 auto;
+    width: auto;
+    height: auto;
+}
