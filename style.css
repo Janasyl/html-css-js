@@ -318,3 +318,19 @@ a {
 .section-2-card {
 	width: 100%;
 }
+
+
+.section-3-text {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+.section-3-title {
+	font-family:'Montserrat', sans-serif;
+    font-size: 40px;
+    line-height: 57px;
+    width: 461px;
+    margin: 0 auto;
+    color: #252b42;
+    padding-top: 80px;
+}
