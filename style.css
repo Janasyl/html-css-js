@@ -405,3 +405,34 @@ a {
     margin-left: auto;
     margin-right: auto;
 }
+.star-p {
+	font-family:'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    font-family:'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    
+    color: #737373;
+    width: 234px;
+}
+
+.div-divs{
+    display: flex;
+}
+.des{
+    margin: 0;
+    font-family:'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    color: #252b42;
+}
+.star-a{
+    font-family:'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    color: #ffa62b;
+}
