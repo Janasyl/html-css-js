@@ -374,3 +374,9 @@ a {
     flex-direction: column;
     justify-content: space-evenly;
 }
+.section-4-text {
+	display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 80px;
+}
