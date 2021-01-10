@@ -361,3 +361,11 @@ a {
     padding-bottom: 80px;
     
 }
+
+
+.section-4 {
+	height: 100%;
+	display: flex;
+	justify-content: space-around;
+	background-color: #f3f3f3;
+}
