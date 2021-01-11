@@ -690,3 +690,19 @@ nav{
     margin-left: 0;
     margin-right:auto;
 }
+.section-7-text {
+    display: flex;
+    justify-content: baseline;
+    padding-top: 53px;
+    padding-bottom: 57px;
+    
+}
+.icon-7 {
+    margin-right: 24.5px
+}
+.icons {
+    margin-right: 20px;
+}
+hr{
+    border: 1px solid #364067
+}
