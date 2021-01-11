@@ -650,3 +650,25 @@ nav{
     color: #252b42;
     margin: 0;
 }
+.section-6-text {
+    margin-top: 90px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.button-6{
+    margin-top: 40px;
+    background-color: #ffa62b;
+    border-radius: 5px;
+    width: 232px;
+    height: 58px;
+    border: none;
+    font-family:'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 28px;
+    color: #fff;
+    
+    outline: none;
+}
