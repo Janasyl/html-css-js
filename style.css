@@ -729,3 +729,12 @@ hr{
     margin-bottom: 15px;
     
 }
+.span-7{
+    font-family:'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    color: #bdbdbd;
+    margin: 5px 0;
+}
