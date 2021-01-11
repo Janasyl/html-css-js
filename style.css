@@ -598,3 +598,24 @@ nav{
 
     margin: 10px 0;
 }
+.main-div-6{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.mini-limit{
+    width: 579px;
+    height: 602px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.padd-l-10{
+    padding-left: 10px;
+    width: 50%;
+    
+}
+.padd-r-10{
+    padding-right:10px ;
+    width: 50%;
+}
