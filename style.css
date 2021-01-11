@@ -547,3 +547,11 @@ nav{
     flex-direction: column;
     
 }
+
+.section-6{
+    background-image: url(./images/cover\ \(9\).png);
+    background-size: cover;
+    
+    height: 821px;
+    
+}
