@@ -439,3 +439,28 @@ a {
 .star-designer{
     margin-left: 15px;
 }
+.service-card {
+    width: 327px;
+    height: 244px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 30px 35px;
+    background-color: #fff;
+}
+
+.section-5{
+    height: 100%;
+    display: flex;
+    justify-content:space-around ;
+    
+    
+}
+
+.section-5-text {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 80px;
+}
+
