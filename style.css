@@ -713,3 +713,8 @@ hr{
     flex-direction: column;
     margin-right: 30px;
 }
+.footer {
+    display: flex;
+    margin-top: 70px;
+    padding-bottom: 140px;
+}
