@@ -464,3 +464,30 @@ a {
     padding-top: 80px;
 }
 
+.section-5-title {
+    font-family:'Montserrat', sans-serif;
+    font-size: 40px;
+    line-height: 57px;
+    width: 461px;
+    margin: 0 auto;
+    color: #252b42;
+}
+
+.section-5-suptitle {
+      
+    font-family:'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #737373;
+    max-width: 470px;
+    margin-top: 10px;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+.main-div-5{
+    display: flex;
+    justify-content: space-between;
+    margin: 80px 0;
+}
