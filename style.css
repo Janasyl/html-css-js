@@ -23,7 +23,8 @@ body {
 	background: url(./images/cover.png) no-repeat center;
 	width: 100%;
 	height: 828px;
-	padding: 36px;
+    padding-top: 10px;
+    
 
 }
 .header__logo {
@@ -112,64 +113,63 @@ nav{
 	font-size: 14px;
 	line-height: 28px;
 }
-.header__form {
-	
-    width: 428px;
+
+.section-1-sec-div{
+    width: 328px;
     height: 619px;
     display: flex;
     flex-direction: column;
     align-items: center;
     background-color: #fff;
     border-radius: 10px;
+
+    
 }
-.form__title {
+.book-input{
+    width: 248px;
+    height: 369px;
+}
+.book-app{
+    font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 24px;
     line-height: 32px;
-    margin: 40px 0;
-
-
+    margin: 40px 0; 
 }
-.form__div {
- width: 100%;
+.input-div{
+    width: 100%
 }
-.form {
-	
-    width: 348px;
-    height: 369px;
-}
-.form__label {
+.lable-ctrl-1{
     width: 100%;
+    font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     font-weight: 600;
     line-height: 24px;
     color: #252b42;
 }
-.form__input {
+.input-ctrl-1{
     outline: none;
-
 }
-.form__input {
-	width: 100%;
-	background-color: #f9f9f9;
-	border: 1px solid #bdbdbd;
-	border-radius: 5px;
-	font-family: 'Monserrat', sans-serif;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 14px;
-	line-height: 28px;
-	padding-top: 11px;
-	padding-bottom: 11px;
-	padding-right: 0;
-	padding-left: 21px;
-	margin: 10px 0;
-
-
+.input-ctrl-1{
+    width: 100%;
+    background-color: #f9f9f9;
+    border: 1px solid #bdbdbd;
+    border-radius: 5px;
+    font-family:'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 28px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 21px;
+    padding-right: 0;
+    margin: 10px 0;
+    
 }
-.department__select {
-	width: 100%;
+.select-ctrl-1{
+    width: 100%;
     background-color: #f9f9f9;
     border: 1px solid #bdbdbd;
     border-radius: 5px;
@@ -185,50 +185,36 @@ nav{
     padding-left: 21px;
     padding-right: 0;
 
+    margin: 10px 0;
 }
-.opt {
+.select-ctrl-1:focus{
+    outline: none;
 }
-.time__select {
-	width: 100%;
-    background-color: #f9f9f9;
-    border: 1px solid #bdbdbd;
-    border-radius: 5px;
+.opt{
     font-family:'Montserrat', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 28px;
     color: #737373;
-    
-    padding-top: 16px;
-    padding-bottom: 16px;
-    padding-left: 21px;
-    padding-right: 0;
 }
-.book {
-	background-color: #ffa62b;
-	border-radius: 5px;
-	width: 348px;
-	height: 58px;
-	border: none;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 14px;
-	line-height: 28px;
-	color: #fff;
-	margin-top: 40px;
-	outline: none;
-}
-.opt {
-	font-family:'Montserrat', sans-serif;
+.book-bt{
+    background-color: #ffa62b;
+    border-radius: 5px;
+    width: 248px;
+    height: 58px;
+    border: none;
+    font-family:'Montserrat', sans-serif;
     font-style: normal;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 14px;
     line-height: 28px;
-    color: #737373;
+    color: #fff;
+    margin: auto 0;
+    outline: none;
+    
+
 }
-
-
 .section-2 {
 	height: 100%;
 	background-color: #fff;
@@ -782,7 +768,7 @@ hr{
     flex-direction: column;
     align-items: center;
 }
-.header__form {
+.section-1-sec-div {
     margin-top: 80px;
 }
 .section-2-card {
