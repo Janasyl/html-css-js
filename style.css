@@ -94,9 +94,9 @@ h1{
 .blue-bt{
     padding: 10px 36px;
     border: 1px solid #00A0C1;
+    background-color: transparent;
     border-radius: 37px;
-    background-color: #00A0C1;
-    color: #fff;
+    color: #00A0C1;
     font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: bold;
@@ -104,13 +104,17 @@ h1{
     line-height: 28px;
 
 }
+.blue-bt:hover {
+    background: #00A0C1;
+    color: white;
+} 
 .blue-bt:focus{
     outline: none;
 }
+
 .transparent-bt{
-    
-    padding: 10px 36px;
     border: 1px solid #00A0C1;
+    padding: 10px 36px;
     border-radius: 37px;
     background-color: transparent;
     color: #00A0C1;
@@ -120,6 +124,10 @@ h1{
     font-size: 14px;
     line-height: 28px;
 
+}
+.transparent-bt:hover {
+    background: #00A0C1;
+    color: white;
 }
 .section-1-sec-div{
     width: 328px;
@@ -222,6 +230,7 @@ h1{
     
 
 }
+
 
 
 
